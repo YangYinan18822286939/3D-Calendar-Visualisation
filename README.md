@@ -16,13 +16,13 @@ The following technologies jointly implement the deployment of this project in a
 
 (6) **todos.json:** Store to-do data in JSON format.
 ## 2. Environmental preparation
-###(1) Basic dependencies
+### (1) Basic dependencies
 Ensure that the following necessary environments are installed locally:
 
-· Python: It is recommended to use Python 3.8 or above for running the back-end Flask service.
+- Python: It is recommended to use Python 3.8 or above for running the back-end Flask service.
 
-· Browser: A modern browser that is compatible with HTML and JavaScript, such as Microsoft Edge, Google Chrome, etc., needs to be installed to access the front-end html interface.
-###(2) Import project files
+- Browser: A modern browser that is compatible with HTML and JavaScript, such as Microsoft Edge, Google Chrome, etc., needs to be installed to access the front-end html interface.
+### (2) Import project files
 Place all project files (including core files such as app.py, index.html, script.js, etc.) in the same local directory, and ensure that the file path is free of special characters to avoid running errors.
 ## 3. Starting back-end service
 Run app.py in the project directory. Seeing the 5000 port (default) running locally indicates that the back-end service has been started, and the web page can be accessed through the address.
